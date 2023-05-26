@@ -26,3 +26,6 @@ All the cool pendulum maths is in `core/mod.rs`, I still have the source for tha
 
 Thank you Michael Hart!
 
+# License
+
+Uhhhh idk do whatever!! One rule if you make something cool or pretty using this I wanna see, @gpluscb on Twitter or MarRue#3658 on Discord
