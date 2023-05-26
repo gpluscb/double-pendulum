@@ -11,6 +11,7 @@ So code bad, sorrryyyy!
 
 ## How 2 Use
 
+As it is, the code actually renders only 5,000 double pendulums, but that's an easy change in main.rs line 33.
 So we have two modes of rendering, rendering to a window with sdl2 and rendering to pngs (I ended up stitching those to a vid with ffmpeg somehow I forgot how).
 Flip between the two by setting the `render_in_window` bool accordingly in main.
 If you render to window and you're cool you close the window by pressing the escape key that would be kind to the program I think.
