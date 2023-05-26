@@ -3,6 +3,7 @@
 50,000 double pendulums.
 
 https://github.com/gpluscb/double-pendulum/assets/20143778/b2389fde-aeb7-4e6a-bafa-d542312ec9ff
+
 (if you can't play the video I blame your browser btw I know I can't and I blame firefox (vlc works))
 
 Please keep in mind all of this is hacked together to get quick results one and a half years ago, and wasn't meant to be open sourced.
