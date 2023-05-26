@@ -2,7 +2,7 @@
 
 50,000 double pendulums.
 
-![video of 50,000 double pendulums slowly diverging](out.mp4)
+https://github.com/gpluscb/double-pendulum/assets/20143778/b2389fde-aeb7-4e6a-bafa-d542312ec9ff
 
 Please keep in mind all of this is hacked together to get quick results one and a half years ago, and wasn't meant to be open sourced.
 So code bad, sorrryyyy!
