@@ -28,7 +28,7 @@ Thank you Michael Hart!
 
 # License
 
-Uhhhh idk do whatever!! One rule if you make something cool or pretty using this I wanna see, @gpluscb on Twitter or MarRue#3658 on Discord
+Uhhhh idk do whatever!! One rule if you make something cool or pretty using this I wanna see, @gpluscb on Twitter or `queer.` on Discord
 
 # Inspiration
 
